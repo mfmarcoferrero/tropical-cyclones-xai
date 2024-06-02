@@ -9,10 +9,6 @@ Welcome to the repository for the POLIMI Master's thesis titled **"An Evaluation
 - **[datasets](/datasets)**: This directory houses the datasets used in the implementation. The data has been preprocessed and organized for ease of use in the notebooks.
 - **[models](/models)**: This directory contains all the trained models produced and evaluated during the project. You can find both the final models and intermediate versions to understand the progression and improvements made.
 
-## Getting Started
-
-To get started with this project, follow the instructions below:
-
 ## Project Overview
 
 The goal of this project is to evaluate various data-driven interpretable methods for detecting tropical cyclones. Interpretable machine learning models are crucial in understanding and trusting the predictions made, especially in critical applications like cyclones forecasting.
