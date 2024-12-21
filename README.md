@@ -39,4 +39,4 @@ The detailed results and findings of the study can be found in the thesis docume
 
 For any questions or further information, please contact:
 
-- [Marco Ferrero](marcoadriano.ferrero@mail.polimi.it)
+- [Marco Ferrero](https://www.linkedin.com/in/marco-ferrero-5ba2131b0)
